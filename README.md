@@ -1,13 +1,13 @@
 Below is a complete, professional README.md file tailored specifically for your GitHub repository based on your project files (app.py and your data analysis notebook).
 
 Markdown
-# 📱 Global Mobile Reviews Explorer & Recommender
+# ✅ Global Mobile Reviews Explorer & Recommender
 
 An end-to-end Data Science and Machine Learning project that explores global mobile phone customer feedback, segments products by price tier, and provides content-based product recommendations. Built using **Python**, **Pandas**, **Scikit-Learn**, **Plotly**, and **Streamlit**.
 
 ---
 
-## 📌 Features
+## ✅ Features
 
 - **Exploratory Data Analysis (EDA):** Interactive visual breakdown of product ratings, sentiment shares, review trends over time, and geographic distributions across countries.
 - **Price Segmentation (K-Means Clustering):** Unsupervised ML pipeline grouping smartphones into dynamic price tiers (*Budget*, *Mid-range*, and *Premium*) based on median pricing and customer evaluation metrics.
@@ -16,7 +16,7 @@ An end-to-end Data Science and Machine Learning project that explores global mob
 
 ---
 
-## 🛠️ Tech Stack
+## ✅ Tech Stack
 
 - **Frontend / Dashboard:** [Streamlit](https://streamlit.io/)
 - **Data Manipulation:** [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
@@ -25,16 +25,16 @@ An end-to-end Data Science and Machine Learning project that explores global mob
 
 ---
 
-## 📁 Repository Structure
+## ✅ Repository Structure
 
 ```text
 ├── app.py                      # Main Streamlit web application
 ├── Mobile Reviews_cleaned.csv  # Dataset containing cleaned mobile reviews data
 ├── load&clea.ipynb             # Data cleaning and exploratory analysis notebook
-├── EDA.ipynb                   #Data analysis and cluster algorithm
+├── EDA.ipynb                   # Data analysis and cluster algorithm
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
-🚀 Getting Started
+✅ Getting Started
 Prerequisites
 Ensure you have Python 3.8+ installed on your system.
 
@@ -54,7 +54,7 @@ Bash
 streamlit run app.py
 Open your browser and navigate to http://localhost:8501 to view the interactive dashboard.
 
-📊 Dataset Overview
+✅ Dataset Overview
 The project processes global mobile reviews containing the following core attributes:
 
 Product Info: brand, model, price_usd
@@ -63,7 +63,7 @@ Ratings: Overall rating, battery_life_rating, camera_rating, performance_rating,
 
 Review Meta: sentiment, review_date, country, verified_purchase, helpful_votes, source
 
-💡 Key Business Insights
+✅ Key Business Insights
 Price Tier Dynamics: Premium and mid-range devices maintain distinct customer expectations—higher price points moderately correlate with better display and camera performance ratings.
 
 Sentiment Analysis: Over 50%+ positive feedback is heavily tied to verified purchases, making verified reviews crucial for quality assessment.
