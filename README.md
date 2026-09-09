@@ -30,7 +30,8 @@ An end-to-end Data Science and Machine Learning project that explores global mob
 ```text
 ├── app.py                      # Main Streamlit web application
 ├── Mobile Reviews_cleaned.csv  # Dataset containing cleaned mobile reviews data
-├── Notebook.ipynb              # Data cleaning and exploratory analysis notebook
+├── load&clea.ipynb             # Data cleaning and exploratory analysis notebook
+├── EDA.ipynb                   #Data analysis and cluster algorithm
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
 🚀 Getting Started
