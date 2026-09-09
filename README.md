@@ -34,6 +34,8 @@ An end-to-end Data Science and Machine Learning project that explores global mob
 ├── EDA.ipynb                   # Data analysis and cluster algorithm
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
+```
+
 ✅ Getting Started
 Prerequisites
 Ensure you have Python 3.8+ installed on your system.
